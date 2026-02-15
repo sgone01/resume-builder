@@ -1,1 +1,1 @@
-{}
+{\n  "name": "latex-resume-builder",\n  "version": "1.0.0",\n  "description": "A resume builder with LaTeX output using Vue.js 3 and Express",\n  "scripts": {\n    "serve": "vue-cli-service serve",\n    "build": "vue-cli-service build",\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "cors": "^2.8.5",\n    "body-parser": "^1.19.0",\n    "latex.js": "^0.9.0"\n  },\n  "devDependencies": {\n    "@vue/cli-service": "^4.5.0",\n    "vue": "^3.0.0"\n  },\n  "keywords": [],\n  "author": "sgone01",\n  "license": "MIT"\n}
